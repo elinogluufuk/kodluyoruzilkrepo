@@ -4,6 +4,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 ![Kodluyoruz](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
 
 ## **Installation**
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link geleccek)
+
+git clone 
 ````
 git clone https://github.com/azmick/kodluyoruzilkrepo 
 ````
